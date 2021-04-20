@@ -1,6 +1,7 @@
+
 # EditorConfig is awesome: http://EditorConfig.org
 root = false
-
+//comment to commit
 [*]
 indent_style = tab
 indent_size = 4
